@@ -16,7 +16,7 @@
     "gatsby-plugin-sharp": "^5.0.0",
     "gatsby-source-contentful": "^8.0.0",
     "gatsby-source-filesystem": "^5.0.0",
-    "gatsby-transformer-remark": "^6.0.0",
+    "gatsby-transformer-remark": "^6.3.2",
     "gatsby-transformer-sharp": "^5.0.0",
     "is-absolute-url": "^4.0.1",
     "react-helmet": "^6.1.0",
